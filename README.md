@@ -1,6 +1,6 @@
 # Hola, soy un Software Developer
 
-💻 +8 años de experiencia construyendo soluciones.
++8 años de experiencia construyendo soluciones.
 
 ---
 
