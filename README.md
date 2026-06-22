@@ -1,11 +1,10 @@
-# 👋 Hola, soy un Software Developer
+# Hola, soy un Software Developer
 
-💻 +8 años de experiencia construyendo soluciones reales para negocio
-🚀 Enfocado en backend sólido, arquitectura limpia y frontend moderno
+💻 +8 años de experiencia construyendo soluciones.
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Empecé mi carrera automatizando procesos internos usando **Visual Basic**, donde aprendí lo importante que es resolver problemas reales con código.
 
@@ -22,30 +21,22 @@ Actualmente estoy enfocado en la **modernización de sistemas**, migrando arquit
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🧩 Backend
+### Backend
 
 * C# / .NET (MVC, APIs, Clean Architecture)
 * SQL Server
 * Arquitectura limpia (Clean Architecture)
 * Integración con APIs externas
 
-### 🎨 Frontend
+### Frontend
 
 * React
 * Next.js
 
-### 🛠️ Otros
+### Otros
 
 * WinForms / WPF (legacy)
 * Automatización de procesos
----
-
-## 🚀 En qué estoy ahora
-
-* Migrando sistemas legacy a **Next.js + .NET moderno**
-* Aplicando **Clean Architecture** en proyectos reales
-* Mejorando performance en sistemas con alto volumen de datos
-
 ---
